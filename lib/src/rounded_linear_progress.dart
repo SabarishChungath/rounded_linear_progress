@@ -1,5 +1,3 @@
-library rounded_linear_progress;
-
 import 'package:flutter/material.dart';
 import 'package:rounded_linear_progress/src/linear_progress_animator.dart';
 
