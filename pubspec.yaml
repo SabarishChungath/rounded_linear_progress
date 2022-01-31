@@ -1,7 +1,7 @@
 name: rounded_linear_progress
-description: A new Flutter package project.
+description: Linear progress indicator with rounded edges and growing animation.
 version: 0.0.1
-homepage:
+homepage: https://github.com/SabarishChungath/rounded_linear_progress/tree/main
 
 environment:
   sdk: ">=2.16.0-56.0.dev <3.0.0"
