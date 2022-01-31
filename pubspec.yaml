@@ -1,6 +1,6 @@
 name: rounded_linear_progress
 description: Linear progress indicator with rounded edges and growing animation.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/SabarishChungath/rounded_linear_progress/tree/main
 
 environment:
